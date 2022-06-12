@@ -2,7 +2,7 @@
 Projeto em desenvolvimento de software
 
 
-![alt text](https://github.com/kevingullyt9/projeto-receita-de-bolo/main/screenshots/00.PNG)
+![alt text](https://github.com/kevingullyt9/projeto-receita-de-bolo/blob/main/screenshots/00.png)
 
 
 
