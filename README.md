@@ -2,7 +2,7 @@
 Projeto em desenvolvimento de software
 
 
-![alt text](https://github.com/kevgllt/dt-money/blob/main/screenshots/00.PNG)
+![alt text](https://github.com/kevingullyt9/projeto-receita-de-bolo/tree/main/screenshots/00.PNG)
 
 
 
