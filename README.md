@@ -2,6 +2,10 @@
 Projeto em desenvolvimento de software
 
 
+BOLO SIMPLES
+
+Site contem uma receita simples de como prerar um bolo.
+
 ![alt text](https://github.com/kevingullyt9/projeto-receita-de-bolo/blob/main/screenshots/00.png)
 
 ![alt text](https://github.com/kevingullyt9/projeto-receita-de-bolo/blob/main/screenshots/01.png)
