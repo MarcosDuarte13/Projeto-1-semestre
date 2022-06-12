@@ -1,0 +1,229 @@
+.5_4 { 
+	overflow:hidden;
+}
+.e5_4 { 
+	/* full display */
+	
+	background-color:rgba(251.00000023841858, 227.00000166893005, 232.00000137090683, 1);
+	width:1263px;
+	height: 3370px;
+	position:absolute;
+}
+.e202_5 { 
+	width:1116px;
+	height:729px;
+	position:absolute;
+	left:73px;
+	top:218px;
+	background-image:url(images/bolo_imagem.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e202_8 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:174px;
+	height:172px;
+	position:absolute;
+	left:99px;
+	top:861px;
+	border-top-left-radius:26px;
+	border-top-right-radius:26px;
+	border-bottom-left-radius:26px;
+	border-bottom-right-radius:26px;
+}
+.e206_14 { 
+	color:rgba(0, 0, 0, 1);
+	width:101px;
+	height:32px;
+	position:absolute;
+	left:136px;
+	top:952px;
+	font-family:JetBrains Mono;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e206_15 { 
+	color:rgba(0, 0, 0, 1);
+	width:87px;
+	height:32px;
+	position:absolute;
+	left:143px;
+	top:984px;
+	font-family:JetBrains Mono;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e206_16 { 
+	width:62px;
+	height:62px;
+	position:absolute;
+	left:155px;
+	top:884px;
+	background-image:url(images/icons8_alarm_clock_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e206_13 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:174px;
+	height:172px;
+	position:absolute;
+	left:310px;
+	top:861px;
+	border-top-left-radius:26px;
+	border-top-right-radius:26px;
+	border-bottom-left-radius:26px;
+	border-bottom-right-radius:26px;
+}
+.e206_18 { 
+	color:rgba(0, 0, 0, 1);
+	width:144px;
+	height:32px;
+	position:absolute;
+	left:325px;
+	top:952px;
+	font-family:JetBrains Mono;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e206_20 { 
+	color:rgba(0, 0, 0, 1);
+	width:144px;
+	height:32px;
+	position:absolute;
+	left:325px;
+	top:984px;
+	font-family:JetBrains Mono;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e206_19 { 
+	width:68px;
+	height:68px;
+	position:absolute;
+	left:362px;
+	top:884px;
+	background-image:url(images/icons8_cloche_96_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e206_41 { 
+	color:rgba(0, 0, 0, 1);
+	width:665px;
+	height:113px;
+	position:absolute;
+	left:299px;
+	top:43px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:96px;
+	letter-spacing:0;
+}
+
+.menu-list {
+
+	width:1116px;
+	height:729px;
+	background-color: EBF6F5;
+	position: absolute;
+
+	left: 73px;
+	top: 1155px;
+}
+
+.menu-list #box p{
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 48px;
+	line-height: 56px;
+
+	text-align: center;
+	margin-top: 90px;
+	
+}
+
+.menu-list #box ul {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 100;
+	font-size: 42px;
+	line-height: 64px;
+
+	position: absolute;
+	top: 200px;
+	left: 40px;
+}
+
+.menu-list-0 {
+
+	width:1116px;
+	height:990px;
+	background-color: EBF6F5;
+	position: absolute;
+
+	left: 73px;
+	top: 2083px;
+}
+
+.menu-list-0 #box-0 p{
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 48px;
+	line-height: 56px;
+
+	text-align: center;
+	margin-top: 90px;
+}
+
+
+.menu-list-0 #box-0 ol{
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 100;
+	font-size: 42px;
+	line-height: 64px;
+
+	position: absolute;
+	top: 200px;
+	left: 40px;
+
+}
+
+footer {
+	width:1116px;
+	height:120px;
+	background: #5CBDB9;
+	border-radius: 12px;
+	position: absolute;
+
+	left: 73px;
+	top: 3250px;
+}
+
+footer .footer-menu {
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 48px;
+	color: #FFFFFF;
+
+	text-align: center;
+
+}
+
+footer .footer-menu a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+footer .footer-menu a:hover {
+	color: springgreen;
+    transition: color 500ms;
+}
