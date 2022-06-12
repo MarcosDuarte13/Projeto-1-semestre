@@ -1,8 +1,8 @@
-# projeto-receita-de-bolo
+# projeto receita de bolo
 Projeto em desenvolvimento de software
 
+# Bolo Simples
 
-BOLO SIMPLES
 
 Site contem uma receita simples de como prerar um bolo.
 
