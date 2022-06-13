@@ -6,6 +6,9 @@ Projeto em desenvolvimento de software
 
 Site contem uma receita simples de como prerar um bolo.
 
+Faça o download do repositorio e execute o arquivo index.html
+
+
 ![alt text](https://github.com/MarcosDuarte13/Projeto-1-semestre/raw/main/screenshots/00.png)
 
 
@@ -26,4 +29,3 @@ Site contem uma receita simples de como prerar um bolo.
 
 
 
-Faça o download do repositorio e execute o arquivo index.html
